@@ -1,0 +1,21 @@
+:root {
+	--background-color: white;
+	--text-color: black;
+}
+
+* 
+{ 
+	font-family: sans-serif; 
+}
+
+h1
+{
+	text-shadow: 2px 2px lightgrey;
+}
+
+body
+{
+	margin: 2em auto;
+	max-width: 96vw;
+}
+
